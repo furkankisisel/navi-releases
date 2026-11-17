@@ -1,0 +1,21 @@
+NAVI — KULLANIM LİSANSI / END-USER LICENSE AGREEMENT
+
+Telif Hakkı / Copyright © 2026 furkankisisel. Tüm hakları saklıdır. / All rights reserved.
+
+TÜRKÇE
+Navi ("Yazılım"), telif hakkı sahibi furkankisisel'e aittir ve satılmaz; kullanım hakkı lisanslanır.
+
+1. İzin verilen: Yazılımı, kendi bilgisayarlarınıza kişisel ve ticari olmayan amaçla kurmak ve kullanmak. Yazılımın değişmemiş kurulum dosyasını, yalnızca bu lisans metniyle birlikte, ücretsiz olarak başkalarına iletmek.
+2. İzin verilmeyen (yasaların vazgeçilmesine izin vermediği haller hariç): Yazılımın veya bir bölümünün kaynak kodunu, metinlerini, görsellerini, animasyonlarını, tasarımını veya adını kopyalamak, değiştirmek, uyarlamak, türev eser üretmek; tersine mühendislik yapmak, kaynak koda dönüştürmek, paket (asar) içeriğini çıkarıp başka bir üründe kullanmak; yeniden adlandırarak, "kendi eseri" gibi sunarak veya ücretle dağıtmak, satmak, kiralamak ya da abonelik ürününe dahil etmek; kurulum dosyasını değiştirip yeniden paketlemek; Yazılımın teknik koruma önlemlerini aşmak.
+3. Üçüncü taraf bileşenler (ör. Electron) kendi lisanslarına tabidir; bu lisans onların haklarını etkilemez.
+4. Yazılım, olduğu gibi sunulur; açık veya zımni hiçbir garanti verilmez. Kullanımdan doğan zararlardan telif hakkı sahibi sorumlu tutulamaz.
+5. Bu lisansın ihlali halinde kullanım hakkı kendiliğinden sona erer; telif hakkı sahibi yasal yollara başvurma hakkını saklı tutar.
+
+ENGLISH
+Navi (the "Software") is owned by furkankisisel and is licensed, not sold.
+
+1. Permitted: install and use the Software on your own computers for personal, non-commercial purposes; pass on the unmodified installer free of charge, only together with this license text.
+2. Not permitted (except where applicable law does not allow this to be waived): copying, modifying, adapting or creating derivative works from the Software's source code, texts, images, animations, design or name; reverse engineering, decompiling, extracting the package (asar) contents for use in another product; redistributing under another name, presenting it as your own work, selling, renting, charging for it or bundling it into a subscription product; modifying and repackaging the installer; circumventing the Software's technical protection measures.
+3. Third-party components (e.g. Electron) are subject to their own licenses; this license does not affect their terms.
+4. The Software is provided "as is" without warranty of any kind. The copyright holder is not liable for any damages arising from its use.
+5. Any violation terminates your right to use the Software automatically; the copyright holder reserves all legal remedies.
